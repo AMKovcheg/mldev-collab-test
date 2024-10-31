@@ -5,9 +5,9 @@ logger:
 
 extras:
   base: mldev.experiment_objects
+  collab: mldev_collab.collab
 
 environ:
   PYTHON_INTERPRETER: python3
   EXPERIMENT_FILE: "./experiment.yml"
   ASK_MISSING: 0
-
